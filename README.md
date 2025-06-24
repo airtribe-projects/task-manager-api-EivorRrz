@@ -261,7 +261,3 @@ task-manager-api/
 4. Add tests for new functionality
 5. Ensure all tests pass
 6. Submit a pull request
-
-## 📄 License
-
-ISC License - see LICENSE file for details 
